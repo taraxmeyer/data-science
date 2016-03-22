@@ -1,6 +1,7 @@
 # GETTING AND CLEANING DATA COURSE PROJECT 
 
-This is the course project for the Getting and Cleaning Data Coursera course. 
+##This is the course project for the Getting and Cleaning Data Coursera course. 
+
 The run_analysis.R script performs:
 
 * Merge the training and test data sets into one data set. 
@@ -9,5 +10,6 @@ The run_analysis.R script performs:
 * Appropriately labels data with descriptive variable names. 
 * Creates a new tidy data set with the average of each variable for each activity and for each subject. 
 
-#### Here is the data for the project:
+
+## Here is the data for the project:
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
