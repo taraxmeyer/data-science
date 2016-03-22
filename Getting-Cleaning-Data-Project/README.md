@@ -13,6 +13,9 @@ The run_analysis.R script performs:
 * Appropriately labels data with descriptive variable names. 
 * Creates a new tidy data set with the average of each variable for each activity and for each subject. 
 
+The end result is shown in tidy.txt file. 
+
 
 #### Here is the data for the project:
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
+
